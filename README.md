@@ -1,4 +1,5 @@
-# Machine-learning-with-Spark
+# Apache Spark MLlib and Pyspark
+MLlib is Spark’s machine learning library and Pyspark python API for Apache Spark, I have done data analysis using these libraries on Jupyter notebook. 
 
 ## Setup
 ### Requirements
