@@ -4,7 +4,7 @@
 ### Requirements
 
 ```bash
-! pip install pyspark
+!pip install pyspark
 ```
 
 ```bash
