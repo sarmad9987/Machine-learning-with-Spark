@@ -20,4 +20,4 @@ from pyspark.sql import SparkSession
 spark=SparkSession.builder. appName('Project Name').getOrCreate()
 ```
 
-Click [here] for code
+Click [here](https://github.com/sarmad9987/Machine-learning-with-Spark/blob/main/Kmeans%20with%20Spark.ipynb) for code
