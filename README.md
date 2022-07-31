@@ -5,7 +5,7 @@ MLlib is Spark’s machine learning library and Pyspark python API for Apache Sp
 ### Requirements
 
 ```bash
-!pip install pyspark
+! pip install pyspark
 ```
 
 ```bash
